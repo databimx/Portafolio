@@ -22,7 +22,7 @@ Con más de 4 años de experiencia entregando insights críticos para marcas glo
 - **Impacto:** Desarrollo de un modelo de regresión/series temporales a 5 años para proyecciones de inventario.
 - **Tecnologías:** Python, SQL (SQLite), Scikit-Learn y visualización en Power BI.
 
-#### [Automatización de Insights de Marketing | Martec](https://github.com/databimx/tu-repo-martec)
+#### [Automatización de Insights de Marketing | Martec](https://github.com/databimx/Data-Analyst-Insights-Executive-MARTEC/blob/8e7e96f106ba78f3259c441c2925ce5e0d9529c9/README.md)
 *Reducción drástica de tiempos operativos en análisis de Influencer Marketing.*
 - **Logro:** Reducción del margen de error en un 95% y optimización de entrega de informes de meses a solo 48 horas.
 - **Tecnologías:** Power BI, DAX, Power Query, VBA.
