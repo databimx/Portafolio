@@ -42,6 +42,3 @@ Con más de 4 años de experiencia entregando insights críticos para marcas glo
 - **Idiomas:** Español (Nativo) | Inglés (B1 - Lectura técnica y documentación)
 
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=databimx&show_icons=true&theme=tokyonight" alt="Estadísticas de Dafne" />
-</p>
