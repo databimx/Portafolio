@@ -17,7 +17,7 @@ Con más de 4 años de experiencia entregando insights críticos para marcas glo
 
 ### 📊 Proyectos Destacados
 
-#### [Forecasting de Ventas | Reckitt (https://github.com/databimx/Forecasting-de-Ventas-Optimizaci-n-de-Cadena-de-Suministro-Reckitt-/blob/4f3c7d41b28af107e7bd208b4d523e122503efc2/README.md)
+#### [Forecasting de Ventas | Reckitt](https://github.com/databimx/Forecasting-de-Ventas-Optimizaci-n-de-Cadena-de-Suministro-Reckitt-/blob/4f3c7d41b28af107e7bd208b4d523e122503efc2/README.md)
 *Optimización de cadena de suministro mediante modelos predictivos.*
 - **Impacto:** Desarrollo de un modelo de regresión/series temporales a 5 años para proyecciones de inventario.
 - **Tecnologías:** Python, SQL (SQLite), Scikit-Learn y visualización en Power BI.
