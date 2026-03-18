@@ -1,4 +1,4 @@
-# ¡Hola! Soy Dafne Ramírez | Data Scientist & Insights Specialist 🚀
+# ¡Hola! Soy DR dataflow | Data Scientist & Insights Specialist 🚀
 
 Como **Científica de Datos** con un trasfondo estratégico en **Ciencias de la Comunicación (UNAM)**, me especializo en cerrar la brecha entre los datos complejos y las decisiones de negocio accionables. 
 
