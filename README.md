@@ -1,4 +1,4 @@
-# ¡Hola! Soy Dafne R. | Influencer Marketing Data Analyst (Analista de Datos de Marketing de Influencers) 🚀
+# ¡Hola! Soy Dafne R. | Data Analyst | Influencer Marketing & Retail Analytics | Power BI Expert | Python & SQL 🚀
 
 Como **Científica de Datos** con un trasfondo estratégico en **Ciencias de la Comunicación (UNAM)**, me especializo en cerrar la brecha entre los datos complejos y las decisiones de negocio accionables. 
 
